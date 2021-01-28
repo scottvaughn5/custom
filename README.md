@@ -1,0 +1,2 @@
+Simple project to learn more about web frameworks by building one from scratch. This project aims to implement features familiar to a DotNet Core developer into the python web ecosystem.
+This includes middleware configuration, dependency injection, model binding, and class based controllers
